@@ -24,6 +24,6 @@
       "expo-router",
       "expo-font"
     ],
-    "scheme": "icarus"
+    "scheme": "meuapp"
   }
 }

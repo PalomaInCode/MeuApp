@@ -1,4 +1,4 @@
-# Icarus
+# MeuApp
 
 Implementação React Native / Expo SDK 58 dos cinco designs do Figma.
 
